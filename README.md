@@ -16,3 +16,5 @@ Algumas dificuldades foram encontradas no desenvolvimento do código, a principa
 Outra dificuldade é a demora com que os códigos rodam, como são muitos arquivos, com muitos dados cada e o site exportar in loco os dados para uma planilha, há uma grande demora em fazer os downloads dos arquivos no site, e também na parte da união, por conta do grande número de dados. O tamanho dos arquivos é relativamente grande e acaba demorando também para fazer a união e o save destes arquivos.
 
 Com isso, retirando estes impedimentos, o desenvolvimento do código foi tranquilo. Algumas dúvidas surgiram, porém com poucas pesquisas no Google já foi necessário para sanar as dúvidas e continuar o desenvolvimento do código.
+
+Caso não queiram esperar o código loop.py rodar até o fim, já deixei as planilhas previemente baixadas e convertidas na pasta Planilhas, a mesma coisa para o código uniao.py, os resultados finais estão União.rar.
