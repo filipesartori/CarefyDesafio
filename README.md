@@ -1,13 +1,13 @@
-# CarefyDesafio
+# CarefyDesafio 🚀
 
 Repositório destinado aos códigos feitos e arquivos gerados no desafio da Carefy
 
 # Tutorial do Código
 
-1 - É necessário rodar este código com todos os arquivos dentro de um único diretório, pois é necessário que haja o drive para que a biblioteca consiga Selenium rodar.
-2 - Execute, então, o código loop.py, pois nele está sendo chamada a função "Clica no arquivo DownloadV2", dentro de um loop, para que faça os downloads assim pedidos.
-3 - Após fazer os downloads, é necessário colocar os arquivos baixados dentro da pasta Planilhas e convertê-los para .XLSX.
-4 - Então, basta executar o código uniao.py para que sejam unidos todos os arquivos em 3 arquivos com seus anos correspondentes.
+1.É necessário rodar este código com todos os arquivos dentro de um único diretório, pois é necessário que haja o drive para que a biblioteca consiga Selenium rodar.
+2.Execute, então, o código loop.py, pois nele está sendo chamada a função "Clica no arquivo DownloadV2", dentro de um loop, para que faça os downloads assim pedidos.
+3.Após fazer os downloads, é necessário colocar os arquivos baixados dentro da pasta Planilhas e convertê-los para .XLSX.
+4.Então, basta executar o código uniao.py para que sejam unidos todos os arquivos em 3 arquivos com seus anos correspondentes.
 
 # Observações e Dificuldades
 
